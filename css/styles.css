@@ -13,6 +13,10 @@ body {
   --color-navy-blue-modal: #2e2f42;
   --header-hover-color: #404bbf;
 }
+/* nav */
+.list {
+  list-style: none;
+}
 /* Logo */
 .link {
   text-decoration: none;
