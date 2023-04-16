@@ -14,7 +14,7 @@ body {
   --header-hover-color: #404bbf;
 }
 /* Logo */
-.logostyles {
+.logostyles:link {
   font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
@@ -24,6 +24,10 @@ body {
   align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  color: var(--color-iris);
+}
+.logostylescolor:link {
+  color: var(--color-navy-blue);
 }
 /* Nav */
 .navstyles {
