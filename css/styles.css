@@ -1,3 +1,6 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
 :root {
   --color-iris: #4d5ae5;
   --color-navy-blue: #2e2f42;
@@ -23,7 +26,6 @@
 }
 /* Nav */
 .navstyles {
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -49,8 +51,6 @@
 
 /* H */
 .styles-h1 {
-  font-family: "Roboto";
-
   font-weight: 700;
   font-size: 56px;
   text-align: center;
@@ -59,7 +59,6 @@
 }
 
 .styles-h2 {
-  font-family: "Roboto";
   font-weight: 700;
   font-size: 36px;
   line-height: 40px;
@@ -68,7 +67,6 @@
   text-transform: capitalize;
 }
 .styles-h3 {
-  font-family: "Roboto";
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
@@ -88,7 +86,6 @@
 }
 /* text */
 .styles-text {
-  font-family: "Roboto";
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
@@ -97,7 +94,6 @@
 }
 
 .footertext {
-  font-family: "Roboto";
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
