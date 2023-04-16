@@ -72,7 +72,9 @@ body {
   background-color: var(--color-navy-blue-modal);
   text-align: left;
 }
-
+.sectionthree {
+  background-color: #f4f4fd;
+}
 /* H */
 .styleshone {
   font-family: "Roboto", sans-serif;
@@ -88,9 +90,9 @@ body {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 36px;
-  line-height: 40px;
+  line-height: 1.11;
   text-align: center;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
 }
 .styleshthree {
