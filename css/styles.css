@@ -49,7 +49,7 @@ body {
   color: var(--header-hover-color);
 }
 .navstylescontact {
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -70,14 +70,17 @@ body {
 
 /* H */
 .styles-h1 {
+  font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 56px;
   text-align: center;
   letter-spacing: 0.02em;
+  line-height: 1.07;
   color: #fff;
 }
 
 .styles-h2 {
+  font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 36px;
   line-height: 40px;
@@ -86,6 +89,7 @@ body {
   text-transform: capitalize;
 }
 .styles-h3 {
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
@@ -94,6 +98,7 @@ body {
 /* button */
 
 .styles-button {
+  font-family: "Roboto", sans-serif;
   position: absolute;
   width: 169px;
   height: 56px;
@@ -105,6 +110,7 @@ body {
 }
 /* text */
 .styles-text {
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
@@ -113,6 +119,7 @@ body {
 }
 
 .footertext {
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
