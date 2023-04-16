@@ -46,7 +46,6 @@ body {
 }
 .navstyleshover:hover {
   color: var(--header-hover-color);
-  text-decoration: underline var(--header-hover-color);
 }
 .navstylescontact {
   font-family: "Roboto";
