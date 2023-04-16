@@ -58,18 +58,18 @@ body {
 }
 
 /* section styles */
-.sec-styles-up {
+.secstylesup {
   height: 600px;
   background-color: var(--color-navy-blue-modal);
 }
-.sec-styles-down {
+.secstylesdown {
   height: 312px;
   background-color: var(--color-navy-blue-modal);
   text-align: left;
 }
 
 /* H */
-.styles-h1 {
+.stylesh1 {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 56px;
@@ -79,7 +79,7 @@ body {
   color: #fff;
 }
 
-.styles-h2 {
+.stylesh2 {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 36px;
@@ -88,7 +88,7 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
-.styles-h3 {
+.stylesh3 {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
@@ -97,7 +97,7 @@ body {
 }
 /* button */
 
-.styles-button {
+.stylesbutton {
   font-family: "Roboto", sans-serif;
   position: absolute;
   width: 169px;
@@ -109,11 +109,13 @@ body {
   border-radius: 4px;
   cursor: pointer;
 }
-.styles-button-hover:hover {
+.stylesbuttonhover:hover {
   background-color: #404bbf;
 }
+.buttonportfolio {
+}
 /* text */
-.styles-text {
+.stylestext {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
