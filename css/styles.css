@@ -24,7 +24,7 @@ body {
   align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: var(--color-iris);
+  color: #4d5ae5;
 }
 .logostylescolor {
   color: var(--color-navy-blue);
