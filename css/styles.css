@@ -85,6 +85,7 @@ body {
 /* H */
 .styleshone {
   font-family: "Roboto", sans-serif;
+  text-align: center;
   font-weight: 700;
   font-size: 56px;
 
@@ -125,9 +126,9 @@ body {
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
   cursor: pointer;
-  font-size: 16;
-  letter-spacing: 0.04em;
-  background-color: #404bbf;
+  font-size: 16px;
+  letter-spacing: 0.04;
+  background-color: #4d5ae5;
 }
 .stylesbuttonhover:hover {
   background-color: #404bbf;
