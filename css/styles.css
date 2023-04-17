@@ -37,9 +37,11 @@ body {
 }
 .logostylescolor {
   color: #2e2f42;
+  font-style: normal;
 }
 .logostylescolortwo {
   color: #f4f4fd;
+  font-style: normal;
 }
 /* Nav */
 .navstyles {
