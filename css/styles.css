@@ -53,6 +53,9 @@ body {
 .navstyleshover:hover {
   color: #404bbf;
 }
+.navstylesfocus:focus {
+  color: #404bbf;
+}
 .navstylescontact {
   font-family: "Roboto", sans-serif;
   font-style: normal;
