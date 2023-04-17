@@ -119,10 +119,11 @@ body {
   text-align: center;
   letter-spacing: 0.04em;
   color: #ffffff;
-  background: #4d5ae5;
+
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
   cursor: pointer;
+  background-color: #404bbf;
 }
 .stylesbuttonhover:hover {
   background-color: #404bbf;
