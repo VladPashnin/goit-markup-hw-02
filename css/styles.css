@@ -142,11 +142,11 @@ body {
   color: #4d5ae5;
   background-color: #f4f4fd;
 }
-.buttonportfoliohover {
+.buttonportfoliohover:hover {
   color: #ffffff;
   background-color: #404bbf;
 }
-.buttonportfoliofocus {
+.buttonportfoliofocus:focus {
   color: #ffffff;
   background-color: #404bbf;
 }
