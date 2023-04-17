@@ -13,7 +13,6 @@ body {
   --color-light-slate: #8e8f99;
   --color-cornflower: #e7e9fc;
   --color-cloud: #f4f4fd;
-  --color-navy-blue-modal: #2e2f42;
   --header-hover-color: #404bbf;
 }
 /* nav */
@@ -48,10 +47,11 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-  color: var(--color-navy-blue-modal);
+  color: #2e2f42;
+  letter-spacing: 0.02em;
 }
 .navstyleshover:hover {
-  color: var(--header-hover-color);
+  color: #404bbf;
 }
 .navstylescontact {
   font-family: "Roboto", sans-serif;
@@ -60,6 +60,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #434455;
 }
 
 /* section styles */
