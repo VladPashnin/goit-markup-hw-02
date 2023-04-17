@@ -41,6 +41,21 @@ body {
 .logostylescolortwo {
   color: #f4f4fd;
 }
+/* section styles */
+.secstylesup {
+  background-color: #2e2f42;
+}
+.secstylesdown {
+  height: 312px;
+  background-color: #2e2f42;
+  text-align: left;
+}
+.sectionthree {
+  background-color: #f4f4fd;
+}
+.sectionfour {
+  background-color: #ffffff;
+}
 /* Nav */
 .navstyles {
   font-style: normal;
@@ -66,21 +81,6 @@ body {
   color: #434455;
 }
 
-/* section styles */
-.secstylesup {
-  background-color: #2e2f42;
-}
-.secstylesdown {
-  height: 312px;
-  background-color: #2e2f42;
-  text-align: left;
-}
-.sectionthree {
-  background-color: #f4f4fd;
-}
-.sectionfour {
-  background-color: #ffffff;
-}
 /* H */
 .styleshone {
   font-family: "Roboto", sans-serif;
