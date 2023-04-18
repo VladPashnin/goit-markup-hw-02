@@ -128,7 +128,7 @@ body {
 .stylesbuttonhover:hover {
   background-color: #404bbf;
 }
-.stylesbuttonfocus {
+.stylesbuttonfocus:focus {
   background-color: #404bbf;
 }
 .buttonportfolio {
