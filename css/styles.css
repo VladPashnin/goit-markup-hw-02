@@ -65,6 +65,12 @@ body {
   color: #2e2f42;
   letter-spacing: 0.02em;
 }
+.navstyles:hover {
+  color: #404bbf;
+}
+.navstyles:focus {
+  color: #404bbf;
+}
 .navstylescontact {
   font-family: "Roboto", sans-serif;
   font-style: normal;
@@ -74,10 +80,10 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.navstyleshover:hover {
+.navstylescontact:hover {
   color: #404bbf;
 }
-.navstylesfocus:focus {
+.navstylescontact:focus {
   color: #404bbf;
 }
 
@@ -113,7 +119,7 @@ body {
 }
 /* button */
 
-.stylesbutton:hover focus {
+.stylesbutton {
   font-family: "Roboto", sans-serif;
   width: 169px;
   font-weight: 500;
@@ -125,10 +131,10 @@ body {
   color: #ffffff;
   background-color: #4d5ae5;
 }
-.stylesbuttonhover:hover {
+.stylesbutton:hover {
   background-color: #404bbf;
 }
-.stylesbuttonfocus:focus {
+.stylesbutton:focus {
   background-color: #404bbf;
 }
 .buttonportfolio {
