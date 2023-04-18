@@ -113,7 +113,7 @@ body {
 }
 /* button */
 
-.stylesbutton {
+.stylesbutton:hover focus {
   font-family: "Roboto", sans-serif;
   width: 169px;
   font-weight: 500;
